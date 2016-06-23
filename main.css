@@ -1,5 +1,6 @@
 .main {
   display: inline;
   padding: 20px;
+  border: 1px solid red;
   margin: 40px auto;
 }
